@@ -1,0 +1,38 @@
+this projects includes
+1.API (fetch)
+2.promises
+3.handling json data 
+4.DOM dynamic updates
+
+
+JS;
+1.function
+2.if condition
+3.fetch
+4.promises
+5.return
+6.API keys handling
+
+3934af0e88e8839b88a22b289ae4b2ee
+sk-...wnEA
+
+button => click => function - predefined - search weather => display => API key => insert in function => declare function in button
+
+
+
+1.airtable api
+2.chat gpt 
+3.uizard
+4.framer
+5.tabnine extension
+6.copilot extension
+7.figma +ai plugin
+8.builder+ai plugin
+9.teleportHQ
+10.durable
+
+1.vercel
+2.netlify
+3.render
+4.firebase hosting
+5.github pages
